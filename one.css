@@ -1,0 +1,53 @@
+.eu {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.fundo {    
+    background-color: violet;
+    width: null;
+    height: 70px;
+}
+.nome {
+    color: purple;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bob {
+    height: 200px;
+    width: 200px;
+}
+.port{
+   font-size: 45px;
+   font-family: Georgia;
+   color: pink;
+}
+.link {
+    color: darkblue;
+}
+.alice{
+    height: 260px;
+    width: 200px;
+}
+.medalha {
+    height: 300px;
+    width: 200px;
+}
+.gps {
+    height: 300px;
+    width: 200px;
+}
+.mim {
+    font-size: 45px;
+    font-family: georgia;
+    color: pink;
+}
+.hab {
+    font-size: 45px;
+    font-family: Georgia;
+    color: pink;
+}
+.ctt{
+    height: 40px;
+    width: 50px;
+}
